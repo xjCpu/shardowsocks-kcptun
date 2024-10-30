@@ -1,5 +1,5 @@
 位于/kcptun目录下
-"listen":":49083",注意有冒号
+"listen":":49082",注意有冒号
 "target":"127.0.0.1:48082",是shardowsocks服务地址
 crypt是kcptun和kcptun之间的加密方式
 key是kcptun和kcptun之间的加密密码
@@ -7,7 +7,7 @@ key是kcptun和kcptun之间的加密密码
 
 {
 "listen":":49083",
-"target":"127.0.0.1:48083",
+"target":"127.0.0.1:49082",
 "key":"wangwenfeng@2024!",
 "crypt":"aes-192",
 "mode":"fast3",
