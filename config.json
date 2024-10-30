@@ -6,8 +6,8 @@ key是kcptun和kcptun之间的加密密码
 
 
 {
-"listen":":49083",
-"target":"127.0.0.1:49082",
+"listen":":49082",
+"target":"127.0.0.1:48082",
 "key":"wangwenfeng@2024!",
 "crypt":"aes-192",
 "mode":"fast3",
